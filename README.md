@@ -1,2 +1,1 @@
-# License
-Nogeese Public License
+# Nogeese Public License
