@@ -20,3 +20,8 @@
     License Inclusion – If you redistribute the software (modified or unmodified), you must include the full NPL 1.0 license.
     Modification Disclosure – If you modify the software and distribute it, you must clearly state the changes.
     Source Code Availability – When distributing the software, you must provide access to the source code or offer to provide it.
+
+
+# Nogeese Closed Public License (NCPL)
+## 1.0
+[Generate it]
