@@ -24,4 +24,22 @@
 
 # Closed Nogeese Public License (CNPL)
 ## 1.0
-[Generate it]
+[Generate it](https://leon8326.neocities.org/nogeeselicenses/cnpl1.0/generator/)
+
+✅ What the CNPL 1.0 Allows You to Do:
+
+    Use the software for personal or internal business purposes.
+    Install and run the software on authorized devices.
+
+❌ What the CNPL 1.0 Does Not Allow:
+
+    Distributing, modifying, sublicensing, or selling the software.
+    Reverse engineering, decompiling, or extracting the source code (except as permitted by law).
+    Sharing, lending, leasing, or making the software available to third parties without explicit permission.
+    Using the software for unlawful activities or in a way that harms its reputation or the creator.
+
+⚖ Conditions You Must Follow:
+
+    You must not attempt to transfer or sublicense the software to unauthorized parties.
+    Any breach of the license terms results in immediate termination of rights.
+    Upon termination, you must delete all copies of the software in your possession.
