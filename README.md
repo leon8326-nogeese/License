@@ -22,6 +22,6 @@
     Source Code Availability – When distributing the software, you must provide access to the source code or offer to provide it.
 
 
-# Nogeese Closed Public License (NCPL)
+# Closed Nogeese Public License (NCPL)
 ## 1.0
 [Generate it]
